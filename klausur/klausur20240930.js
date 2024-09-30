@@ -10,6 +10,13 @@ console.log("Aufgabe 1")
 // Geben Sie das Volumen in einem Antwortsatz auf der Konsole aus.
 
 
+let a = a*b*c 
+
+a = 5,
+b = 8,
+c = 10,
+
+console.log(" Das Volumen beträgt; " + a*b*c)
 
 
 // 1b 
@@ -33,12 +40,28 @@ console.log("Aufgabe 2")
 // 2a)
 // Definieren Sie die class
 
+class Zeugnisse{
+    constructor(){
+        this.Deutsch
+        this.Mathe
+        this.Englisch
+        this.Politik
+        this.Biologie
+        this.Geografie
+        this.Betriebswirtschaftslehre
+        this.Informatik
+
+    }
+
+    }
+
+
+
+    
 
 
 // 2b)
 // Deklarieren, Instanziieren und Initialisieren Sie ein Objekt von der Zeignisklasse.
-
-
 
 
 // 2c)
@@ -83,16 +106,25 @@ console.log("Aufgabe 3")
 // * alles andere: 19%
 // Dieses Produkt hat die Produktart "Zeitung"
 
+
+
 // 3a)
 // Deklarieren, Instanziieren Sie ein Objekt mit allen genannten Eigenschaften. 
 
+NettoRechnunsbetrag = 370,
+Lebensmittel, Zeitung, Buch = 0.07
+Mehrwertsteuer = 0.19,
+rabatt = 0.2,
+listenpreis = 40, 
 
+console.log()
 
 
 // 3b
 // Initialisieren Sie Ihr Objekt mit den gegebenen Werten. 
 // Geben Sie die einen Anwortsatz auf der Konsole aus.
 
+console.log (" Die Zeitung ")
 
 
 // 3c)
